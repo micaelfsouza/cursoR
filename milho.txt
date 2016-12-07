@@ -5,3 +5,5 @@ Milho
 modificando o arquivo.
 
 Posso plantar milho convencional
+
+Além da finalidade do milho, posso ter milho convencional ou transgênico
